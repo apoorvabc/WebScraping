@@ -1,0 +1,11 @@
+https://stackoverflow.com/questions/64232340/using-beautifulsoup-to-click-through-pages-and-then-search-for-appropriate-links/64235070#64235070
+
+
+https://stackoverflow.com/questions/62475675/how-to-scrape-hidden-class-data-using-selenium-and-beautiful-soup
+
+https://stackoverflow.com/questions/14529849/python-scraping-javascript-using-selenium-and-beautiful-soup
+
+TO SAVE AS CSV :
+html - Python Web scraping span tags with BeautifulSoup4 for GBP prices - Stack Overflow
+
+https://stackoverflow.com/jobs/493190/devops-engineer-m-w-d-3dqr-gmbh
